@@ -56,3 +56,5 @@ Project ini menunjukkan bahwa analisis data penjualan dapat membantu perusahaan 
 2. Fokus pada customer dengan profit tinggi.
 3. Mengevaluasi performa industry dan region.
 4. Mendukung pengambilan keputusan berbasis data.
+
+HAPPY LEARNING EVERYONE:) !!!
